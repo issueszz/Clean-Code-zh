@@ -1,4 +1,4 @@
-# Clean Code 中文
+# 代码整洁之道
 
 <div style="margin: 0 auto; width: 40%;">
   <img src='./cover.jpg'/>

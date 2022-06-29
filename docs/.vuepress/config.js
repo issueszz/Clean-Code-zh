@@ -1,7 +1,15 @@
 // .vuepress/config.js
 module.exports = {
+  // 端口
+  port: 8755,
+  head: [
+    [
+      'link',
+      {rel: 'icon', href: '/icon/logo.png'}
+    ]
+  ],
   // 网站的标题
-  title: "Clean Code 中文",
+  title: "代码整洁之道",
   // 上下文根
   base: "/doc-cleancode/",
   themeConfig: {
